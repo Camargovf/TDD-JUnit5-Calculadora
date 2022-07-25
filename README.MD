@@ -1,4 +1,4 @@
-<h1 align="center">📦 jUnit 5 - Teste Unitárioß</h1>
+<h1 align="center">📦 jUnit 5 - Teste Unitário</h1>
 
 JUnit5 - teste unitário.
 
