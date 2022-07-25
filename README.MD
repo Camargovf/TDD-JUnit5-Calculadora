@@ -2,7 +2,7 @@
 
 JUnit5 - teste unitário.
 
-realizado para cobertura de comportamento.
+Realizado para cobertura de comportamento.
 Comportamento de cálculos: inteiros, booleanos.
 
 <h1 align="center">BDD</h1>
